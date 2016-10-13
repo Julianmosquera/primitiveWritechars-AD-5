@@ -72,19 +72,8 @@ public class Primitivewritechars {
        
 
 
-// writeChars escribiu: Esta e unha cadea\n
-//writeChars escribiu:  36bytes
-//writeChars escribiu: Esta e unha cadea\n
-//writeChars escribiu:  36bytes
-//bytes totais escritos = 72
-//lemos a primeira cadea:  Esta e unha cadea
-//
-//o numero de bytes lidos e :36
-//bytes restantes por ler : 36
-//lemos a segunda cadea:  Esta e unha cadea
-//
-//o numero de bytes lidos e :36
-//bytes restantes por ler : 0
+
+
     }
     
 }
